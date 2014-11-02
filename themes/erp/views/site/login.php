@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Gebo Admin Panel - Login Page</title>
+        <title>Uchumi-ERP - Login Page</title>
     
         <!-- Bootstrap framework -->
             <link rel="stylesheet" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/bootstrap.min.css" />
