@@ -700,3 +700,230 @@ Stack trace:
 REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
 HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
 ---
+2014/11/02 13:06:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/02 13:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/02 13:13:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/02 13:13:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/12 03:32:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('favicon.ico')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('favicon.ico')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/f...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/favicon.ico
+---
+2014/11/12 03:32:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/12 03:39:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/12 03:39:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/12 03:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/12 03:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/default/i...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/default/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/default/index
+---
+2014/11/12 03:39:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "c".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('c')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('c')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('site/c/Erp/them...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/site/c/Erp/themes/erp/ss/bootstrap-responsive.min.css
+HTTP_REFERER=http://localhost/Erp/index.php/site/login
+---
+2014/11/12 03:39:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('favicon.ico')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('favicon.ico')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('site/favicon.ic...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/site/favicon.ico
+---
+2014/11/12 03:39:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminCo...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminCompanySetup/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminCompanySetup/admin
+---
+2014/11/12 03:39:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('favicon.ico')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('favicon.ico')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminCo...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminCompanySetup/favicon.ico
+---
+2014/11/12 03:39:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminCo...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminCompanySetup/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminCompanySetup/create
+---
+2014/11/12 03:39:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminCo...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminCompanySetup/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminCompanySetup/create
+---
+2014/11/12 03:49:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminUs...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminUsers/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminUsers/admin
+---
+2014/11/12 03:49:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('favicon.ico')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('favicon.ico')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminUs...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminUsers/favicon.ico
+---
+2014/11/12 03:49:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminUs...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminUsers/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminUsers/admin
+---
+2014/11/12 03:50:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminUs...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminUsers/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminUsers/admin
+---
+2014/11/12 03:50:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/Erp/yii-1.1.15.022/framework/web/CController.php(270): CController->missingAction('img')
+#1 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(282): CController->run('img')
+#2 /var/www/html/Erp/yii-1.1.15.022/framework/web/CWebApplication.php(141): CWebApplication->runController('Setup/CbAdminUs...')
+#3 /var/www/html/Erp/yii-1.1.15.022/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/html/Erp/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/Erp/index.php/Setup/CbAdminUsers/img/user_avatar.png
+HTTP_REFERER=http://localhost/Erp/index.php/Setup/CbAdminUsers/admin
+---
