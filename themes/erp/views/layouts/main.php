@@ -87,7 +87,7 @@
 				<div class="navbar navbar-fixed-top">
 					<div class="navbar-inner">
 						<div class="container-fluid">
-					<a class="brand" href="index.php?uid=1&amp;page=dashboard"><i class="icon-home icon-white"></i> ACC_ERP <span class="sml_t">1.0</span></a>
+					<a class="brand" href="index.php?uid=1&amp;page=dashboard"><i class="icon-home icon-white"></i> UchumiERP <span class="sml_t">1.0</span></a>
 							<ul class="nav user_menu pull-right">
 								<li class="hidden-phone hidden-tablet">
 									<div class="nb_boxes clearfix">
